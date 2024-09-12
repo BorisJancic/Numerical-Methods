@@ -1,0 +1,18 @@
+ECE 204 Project 3
+
+
+
+Q1:
+    a) No Changes were made
+    B)
+
+Q2:
+    The root finding function uses Newton's Method to find a root, until it reaches a value
+    Within some epsilon. In the case that our initial point z0 does not converge to a root
+    We run newtons method again, on another random point
+
+Q3:
+    
+
+Q4:
+    
